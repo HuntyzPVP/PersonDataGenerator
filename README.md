@@ -7,5 +7,6 @@
 * run the command `python3 main.py`
 
 > If you have any suggestions, questions, comments, or concerns, please email me at hntrkurtz@gmail.com
+> Please keep in mind this a very early version of this project and a more advanced version will be coming out soon.
 
 > *REMINDER: YOU MUST HAVE PYTHON 3 INSTALLED ON YOUR DEVICE*
