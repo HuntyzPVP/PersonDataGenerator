@@ -31,6 +31,6 @@ def personal_details():
             baggage_weight = random.randint(0, 30)
             total_baggage_weight += baggage_weight
         print("Person: {}\nHuman Type: {}\nWeight: {} Pounds\nBaggage Weight: {} Pounds\n".format(number_of_person, human_type, weight, baggage_weight))
-    print("Total Baggage Weight:", total_baggage_weight, "\n")
+    print("Total Baggage Weight:", total_baggage_weight, "Pounds\n")
 
 personal_details()
