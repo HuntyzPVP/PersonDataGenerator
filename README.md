@@ -7,4 +7,4 @@
 * run the command `python3 main.py`
 
 > If you have any suggestions, questions, comments, or concerns, please email me at hntrkurtz@gmail.com
-> *NOTE: YOU MUST HAVE PYTHON 3 INSTALLED ON YOUR DEVICE*
+> *REMINDER: YOU MUST HAVE PYTHON 3 INSTALLED ON YOUR DEVICE*
